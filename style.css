@@ -169,18 +169,22 @@
     height: 574px;
     margin: 5em 7%  1em 7% ;
 
-    text-align: start;
-
 }
 
 
 
 .column1 {
+    border: 3px solid #000000;
+    border-radius: 12px;
     float: left;
-    width: 85%;
+    height: 574px;
+    width: 98%;
 }
 
 .column2 {
-    width: 15%;
+    width: 40%;
 }
 
+.zag {
+    color: #843CCB;
+}
