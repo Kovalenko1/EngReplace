@@ -1,0 +1,186 @@
+.AuthBtn {
+    margin: 1em 10em 1em 2em;
+    border-radius: 19px;
+    width: 137px;
+    border: none;
+    height: 51px;
+}
+
+.engRe {
+    text-align: center;
+    margin: 1em 0 0 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.eng {
+    color: #843CCB;
+}
+
+.re {
+    color: #A069D6;
+}
+
+.helperText {
+    text-align: center;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.bl {
+
+    margin: 5em 8em 5em 8em;
+}
+
+
+.card {
+    width: 234px;
+    height: 364px;
+    margin: 5em 2em 3em 1em;
+    display: block;
+    float: left;
+    border: none;
+    text-align: center;
+}
+
+.cardNX {
+    width: 234px;
+    height: 364px;
+    margin: 5em 2em 5em 1em;
+    display: block;
+    float: left;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.cardNL {
+    width: 234px;
+    height: 364px;
+    margin: 5em 2em 5em 1em;
+    display: block;
+
+    padding: 0 10px;
+    text-align: center;
+}
+
+.cardY {
+    width: 234px;
+    height: 364px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 2em 5em 1em;
+    display: block;
+    float: left;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.cardNY {
+    width: 234px;
+    height: 364px;
+    margin: 0 2em 5em 1em;
+    display: block;
+    float: left;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.cardNYL {
+    width: 234px;
+    height: 364px;
+    margin: 0 2em 5em 1em;
+    display: block;
+
+    padding: 0 10px;
+    text-align: center;
+}
+
+.btn {
+    float: left;
+    width: 3em;
+}
+
+.helperText {
+    text-align: center;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+
+}
+
+.triangle {
+    text-align: right;
+    height: 65px;
+    width: 65px;
+    background-color: #67f5ff;
+
+    border-radius: 0px 10px 0px 10px;
+    float: right;
+}
+
+.number {
+    margin-right: 20%;
+    margin-top: -10%;
+    transform: rotate(45deg);
+    font-size: large;
+
+}
+.yyy {
+
+    width: 0;
+    height: 0;
+    border-bottom: 65px solid #552781;
+    border-right: 65px solid transparent;
+    margin-left: 168px;
+    position: relative;
+    z-index: 5;
+
+
+}
+
+.hren_karta {
+    background-color: #552781;
+    border-radius: 10px;
+    border: solid 2px rgb(red, green, blue);
+    height: 364px;
+    width: 234px;
+}
+
+.ttext {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+/* Вторая страница */
+
+.tbText {
+    width: 86%;
+    height: 574px;
+    margin: 5em 7%  1em 7% ;
+
+    text-align: start;
+
+}
+
+
+
+.column1 {
+    float: left;
+    width: 85%;
+}
+
+.column2 {
+    width: 15%;
+}
+
